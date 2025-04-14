@@ -19,7 +19,7 @@ In this exercise, you will complete a series of tasks by editing the file `poem.
 
 ## To-Do List
 
-- [ ] Complete the missing third line in the first stanza.
+- [x] Complete the missing third line in the first stanza.
 - [ ] Fill the gaps in the first and second stanza to improve the rhyme scheme.
 - [ ] Add a closing stanza to the end of the poem.
 - [ ] Add a title to the poem at the top of `poem.md`.
